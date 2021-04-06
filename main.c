@@ -2,6 +2,14 @@
 
 int main()
 {
-	printf("branch test2");
-	return 0;
+<<<<<<< HEAD
+        printf("branch master");
+=======
+        printf("branch testbranch");
+>>>>>>>testbranch
+=======
+        printf("branch testbranch2");
+>>>>>>>testbranch2
+        return 0;
 }
+
