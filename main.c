@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("branch master");
+	printf("branch test1");
 	return 0;
 }
