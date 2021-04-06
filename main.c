@@ -3,13 +3,14 @@
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	printf("master");
-=======
-	printf("test1");
->>>>>>>test1
 =======
 	printf("test2");
 >>>>>>> test2
+=======
+	printf("test");
+>>>>>>> test1
 	return 0;
 }
 
