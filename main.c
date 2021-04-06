@@ -2,14 +2,7 @@
 
 int main()
 {
-<<<<<<< HEAD
-	printf("branch master");
-=======
-	printf("branch testbranch");
->>>>>>>testbranch
-=======
-	printf("branch testbranch2");
->>>>>>>testbranch2
+	printf("master");
 	return 0;
 }
 
